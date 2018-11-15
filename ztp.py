@@ -18,7 +18,7 @@ FTPPASS="ztplab"
 
 # These variables will define the desired standard image filenames
 # These are platform specific.
-IMG_CSR100V="csr1000v-universalk9.16.08.01a.bin"
+IMG_CSR1000V="csr1000v-universalk9.16.08.01a.bin"
 IMG_ASR1001X="asr1001x-universalk9.16.08.01.SPA.bin"
 IMG_ISR4431="isr4300-universalk9.16.08.01.SPA.bin"
 IMG_ISR4451="isr4400-universalk9.16.08.01.SPA.bin"
